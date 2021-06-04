@@ -14,7 +14,7 @@ https://keras.io/examples/vision/retinanet/
 This is code analysis about Keras Example Code "RetinaNet", edit on my liking and use on Pnemonia dataset.
 
 
-My Explaination Blog
+My Explaination Blog ( Korean not English )
 
 - Naver Blog
 1. [RetinaNet] 1. Anchor Box 
