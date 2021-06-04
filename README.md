@@ -1,12 +1,12 @@
 # Detection-Pneumonia-by-RetinaNet
 
-Dataset : RSNA Pneumonia Detection Challenge
+- Dataset : RSNA Pneumonia Detection Challenge
 
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
 
 
 
-Original Code : Keras Examples Code - Object Detection with RetinaNet
+- Original Code : Keras Examples Code - Object Detection with RetinaNet
 
 https://keras.io/examples/vision/retinanet/
 
